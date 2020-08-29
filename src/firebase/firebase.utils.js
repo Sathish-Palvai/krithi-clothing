@@ -3,14 +3,13 @@ import 'firebase/firestore';
 import 'firebase/auth';
 
 const config = {
-  apiKey: "AIzaSyBq_-zFlfgNGVx-aq0qeGBGy1OTCroFx-Q",
-  authDomain: "krithi-db.firebaseapp.com",
-  databaseURL: "https://krithi-db.firebaseio.com",
-  projectId: "krithi-db",
-  storageBucket: "krithi-db.appspot.com",
-  messagingSenderId: "409660821819",
-  appId: "1:409660821819:web:ddaa9ea2ebeed4f926a71e",
-  measurementId: "G-PYQDH6VPM9"
+  apiKey: "AIzaSyB-C2CZKdNAjP062XGXvBrJHquzpuyLqCM",
+  authDomain: "krithi-db-3c20a.firebaseapp.com",
+  databaseURL: "https://krithi-db-3c20a.firebaseio.com",
+  projectId: "krithi-db-3c20a",
+  storageBucket: "krithi-db-3c20a.appspot.com",
+  messagingSenderId: "479586875530",
+  appId: "1:479586875530:web:7e1316a5619df89f359573"
 };
 
 firebase.initializeApp(config);
